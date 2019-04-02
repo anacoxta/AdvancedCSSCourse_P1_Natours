@@ -1,0 +1,7 @@
+{
+  "editor.tabSize": 2,
+  "html.autoClosingTags": false,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "editor.detectIndentation": false
+}
